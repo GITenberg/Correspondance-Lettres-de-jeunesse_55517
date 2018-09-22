@@ -1,5 +1,8 @@
 _repo: Correspondance-Lettres-de-jeunesse_55517
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55517-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -12,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Émile_Zola
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55517#Correspondance-Lettres-de-jeunesse
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2017-09-10'
 gutenberg_type: Text
